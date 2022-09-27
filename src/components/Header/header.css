@@ -1,0 +1,98 @@
+
+.header{
+    position: fixed;
+    width: 100%;
+    z-index: 11;
+}
+.main-menu {
+    color: red;
+    text-align: right;
+    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: #fff;
+    border-bottom: solid 1px rgb(224, 224, 224);
+}
+
+.menu {
+    /* color: #1e90ff ; */
+    color: #94999f;
+    opacity: 0.9;
+    display: inline;
+    margin-right: 100px;
+    font-size: 20px;
+    font-weight: 600;
+    height: 2rem;
+    font-family: "Poppins", sans-serif;
+
+}
+
+.menu:hover {
+    color: #000;
+    border-bottom: 2px solid #94999f;
+}
+  
+.logo {
+    width: 9rem;
+    height: auto;
+    position: relative;
+    /* margin-top: 30px; */
+    background-color: #fff;
+    margin-right:38rem;
+}
+
+.log {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    border-bottom: 1px solid #c2c2c2;
+    height: 50px;
+    line-height: inherit;
+    font-size: inherit;
+    position: relative;
+    background-color: #fff;
+}
+
+.login-header {
+    text-align: right;
+    color: #94999f;
+    margin-right: 90px;
+    font-size: 12px;
+    border-left: solid 1px #94999f ;
+}
+
+.phone-number{
+    margin-right: 1250px;
+    color: #94999f;
+    font-size: 12px;
+    border-left: solid 1px #94999f ;
+}   
+
+.dropdown{
+    position: relative;
+    display: inline-block;
+ }
+
+ /*sub-menu*/
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: rgba(255, 255, 255, 1);
+    z-index: 1;
+    list-style: none;
+    width: 170px;
+    
+ }
+ .dropdown:hover .dropdown-content{
+    display: block;
+ }
+ .menu-con{
+    color: #000;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: left;
+ }
+ /* .personal-icon{
+    margin-right: 200px;
+ } */

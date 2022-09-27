@@ -1,0 +1,55 @@
+.detail-hotel{
+    padding: 0% 19.5%;
+    padding-top: 200px;
+}
+
+.title-hotel{
+    color: #333;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+.img-option{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.img-det-hot{
+    width: 800px;
+    height: 430px;
+}
+
+.utilities{
+    background-color: #f3f3f3;
+    width: 320px;
+    padding: 2% 2%;
+    margin-left: 20px;
+}
+
+.utilities-option{
+    font-size: 14px;
+}
+.hotel-des{
+    background-color: #f3f3f3;
+    color: #333;
+    font-style: italic;
+    font-weight: 500;
+    padding:  2%;
+}
+
+.btn-hotel-des{
+    display: block;
+    text-align: center;
+    background: #ed0080;
+    background: linear-gradient(180deg,#ed0080 0,#be3b98 100%);
+    color: #fff;
+    text-transform: uppercase;
+    padding: 9px 10px;
+    margin-top: 20px;
+
+}
+.hotline-hotle{
+    font-weight: 500;
+    margin-top: 20px;
+}

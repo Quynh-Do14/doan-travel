@@ -1,0 +1,13 @@
+
+.slide{
+    width:100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 70px;
+    z-index: 10;
+}
+
+.img-slide{
+    margin-top: -550px;
+}

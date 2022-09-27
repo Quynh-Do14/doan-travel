@@ -1,0 +1,54 @@
+.category {
+    padding: 0 15%;
+    margin-bottom: 100px;
+
+}
+
+.cate-main {
+    transition: transform 1s;
+}
+
+.cate-main:hover {
+    transform: skewX(2deg);
+    transform: skewY(2deg);
+    transform: skew(2deg, 2deg);
+}
+
+.cate-img {
+    width: 280px;
+    height: 400px;
+    border-radius: 20px;
+    /*  transform: skewX(25deg);
+    transform: skewY(10deg);
+    transform: skew(25deg, 10deg); */
+}
+
+
+.title-category {
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: "Open Sans", sans-serif;
+
+}
+
+.title-cate1 {
+    font-size: 34px;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.title-cate2 {
+    font-size: 26px;
+
+}
+
+.title-img {
+    font-family: "Open Sans", sans-serif;
+    margin-top: -70px;
+    margin-left: 30px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    transition: transform 1s;
+}
+

@@ -1,0 +1,26 @@
+.veh-des{
+    display: flex;
+    justify-content: space-around;
+}
+.content-veh{
+    width: 390px;
+    background-color: rgb(255, 255, 255);
+    border: solid 1px rgb(224, 224, 224);
+    margin-top: 50px;
+    padding-bottom: 20px;
+    overflow: hidden;
+}
+.imgveh{
+    width: 415px;
+    height: 240px;
+    position: relative;
+    overflow: hidden;
+    transform: scale(1);
+    transition: 0.5s;
+}
+
+.imgveh:hover{
+    transform: scale(1.1);
+    overflow: inherit;
+
+}

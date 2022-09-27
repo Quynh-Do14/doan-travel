@@ -1,0 +1,65 @@
+.container-post {
+    padding: 1% 10%;
+    background-color: #f3f3f3;
+
+}
+
+.container-post-main {
+    background-color: #fff;
+    padding: 3%;
+    margin-top: 150px;
+    display: flex;
+}
+
+.post-text{
+    width: 900px;
+    margin-right: 100px;
+}
+
+.post-title {
+    text-align: left;
+    font-size: 35px;
+    font-weight: 500;
+    border-bottom:double 10px #818181;
+}
+
+.post-des {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.post-img-list {
+    margin-top: 30px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.post-img-list-m {
+    width: 650px;
+    height: 400px;
+    border-radius: 10px;
+}
+
+.list-post-tour{
+    overflow: auto;
+    padding:2%;
+    border-left: solid 1px #818181;
+}
+
+.imgtour-nametour-post{
+    display: flex;
+    margin-bottom: 50px;
+    border-bottom: solid 2px #818181;;
+}
+
+.imgtour-post{
+    width: 120px;
+    height: 80px;
+    margin-right: 20px;
+}
+.nametour-post{
+    font-size: 16px;
+    font-weight: 500;
+}

@@ -1,0 +1,37 @@
+.per-booking {
+    display: flex;
+
+}
+
+.per-img {
+    width: 270px;
+    height: 180px;
+}
+
+
+.per-title-name {
+    border-bottom: 1px rgb(235, 169, 94) solid;
+    margin-top: 2px;
+    padding: 0 2%;
+}
+
+.per-tour-name {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.per-name-price {
+    width: 270px;
+    height: 200px;
+    padding: 2%;
+    border-bottom: 1px rgb(235, 169, 94) solid;
+    margin-bottom: 10px;
+}
+
+.per-tour-price {
+    color: rgb(218, 99, 99);
+}
+.status-booking{
+    display: flex;
+    font-weight: 500;
+}

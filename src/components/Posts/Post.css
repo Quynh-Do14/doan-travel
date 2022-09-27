@@ -1,0 +1,45 @@
+.post {
+    /* background-image: url('../Asset/dalatBG.png'); */
+    background-image: url(http://mauweb.monamedia.net/traveltime/wp-content/uploads/2019/01/rtgst-1.jpg);
+}
+
+.post-padding {
+    padding: 5% 20%;
+}
+
+.post-scroll {
+    overflow: auto;
+    width: 1100px;
+    height: 400px;
+}
+
+.post-main {
+    display: flex;
+
+}
+
+.post-img-name {
+    filter: drop-shadow(2px 2px 2px rgba(237, 144, 166, 0.25));
+}
+
+.post-img {
+    width: 350px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.post-name {
+    padding: 3%;
+    margin-right: 50px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: #fff;
+    height: 100px;
+    width: 350px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.3;
+    
+    
+}

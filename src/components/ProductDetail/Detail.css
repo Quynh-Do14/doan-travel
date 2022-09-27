@@ -1,0 +1,206 @@
+
+/* .info {
+    display: flex;
+    justify-content: space-evenly ;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-bottom: 20px;
+
+}
+.img-slide{
+    box-shadow: 0 30px 25px -10px rgba(0, 0, 0, 0.07), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color: rgb(253, 253, 253);
+    border: solid 1px #94999f;
+}
+
+.imgdes {
+    width: 550px !important;
+    height: 250px !important;
+    padding-left: 0%;
+    filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.25));
+    border-radius: 10px;
+    border-left-style: solid ;
+    border-right-style: solid ;
+}
+
+.imgdes-small {
+    margin-top: 10px;
+    margin-left: -5px;
+}
+
+.imgdes-small-s {
+    width: 180px;
+    height: 140px;
+    border-radius: 5px;
+    margin-left: 5px;
+} */
+
+/* .des-main{
+    background-image: url(../Asset/background-opacity.png);
+    background-image: url('https://dulichviet.com.vn/images/form/bg-contact.jpg');
+    background-size: cover;
+    margin-top: -100px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    border-top: 1px solid #94999f;
+    border-bottom: 1px solid #94999f;
+} */
+
+.nametour-des {
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 40px;
+    background-color: #2c60f0;
+    color: #fff;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    border-radius: 10px;
+
+}
+
+.info-price {
+    box-shadow: 0 30px 25px -10px rgba(0, 0, 0, 0.07), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    border-radius: 10px;    
+    background-color: rgb(253, 253, 253);
+    position: relative;
+    border: solid 1px #94999f;
+}
+
+.tb {
+    color: #4f4f4f;
+    font-size: 15px;
+    margin-top: 2%;
+
+}
+
+.price-btn {
+    background-image: linear-gradient(to left, #fffbec, #ffe8a9);
+    width: 300px;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5%;
+    box-shadow: 1px 1px 1px rgb(240, 165, 107);
+    font-family: 'Roboto', sans-serif;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.ipt {
+    width: 240px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.pricedes {
+    color: #4f4f4f;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.btn-tab{
+    transform: scale(1);
+    transition: 0.5s;
+
+}
+
+.btn:hover{
+    transform: scale(1.1);
+}
+
+.mb-3 {
+    margin-top: 80px;
+}
+
+.schedule {
+    padding: 0% 19.5%;
+    margin-bottom: 100px;
+    /* margin-top: -100px; */
+
+}
+
+.day {
+    font-size: 24px;
+    font-weight: 700;
+    background-color: #71d2f0;
+    color: #fff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 10px 15px -3px rgb(0 0 0 / 7%), 0 4px 6px -2px rgb(0 0 0 / 5%);
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+.schedule-everyday {
+    background-color: #f3f3f3;
+    color: #000;
+    margin: auto;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    box-shadow: 0 10px 15px -3px rgb(0 0 0 / 7%), 0 4px 6px -2px rgb(0 0 0 / 5%);
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+
+
+.table {
+    color: #000;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.ttdes-tbl {
+    font-size: 22px;
+    background-color: #f3f3f3;
+    color: #4f4f4f;
+}
+
+.tab-product{
+    display: flex;
+    justify-content: center;
+}
+
+#tab-btn{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: #71d2f0;
+    color: #fff;
+    width: 200px;
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-transform: uppercase;
+}
+
+.title-des{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    font-size: 30px;
+    color: rgb(51, 135, 245);
+    border-bottom: solid 3px;
+    font-weight: 500;
+}
+.btn-noti{
+    color: rgb(245, 46, 46);
+    font-size: 18px;
+    font-weight: 500;
+}

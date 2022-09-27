@@ -1,0 +1,97 @@
+.create-main{
+    padding: 1% 12.5%;
+    background-color: #eee;
+}
+.create-s{
+    background-color: #fff;
+    padding: 2%;
+}
+
+/* .sel-list{
+    display: flex;
+    justify-content: space-around;
+} */
+.ipt-create{
+    padding: 2% 60% 0 0;
+}
+.btn-add{
+    background-color: #f97150;
+    margin-top: 2%;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    
+}
+.add-day{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #71d2f0;
+    padding: 0 2%;
+    margin-top: 2%;
+    color: #fff;
+    height: 3rem;
+
+}
+.select-tour{
+    background-color: #f3f3f3;
+    color: #000;
+    margin-top: 0.5%;
+    padding: 1% 3%;
+}
+
+.hightlight-create{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+
+    background-color: #5737d9;
+    padding:0.5% 3%;
+    border-radius: 10px;
+    margin-top: 1%;
+    font-size: 14px;
+    color: #eee;
+    border: none;
+    
+}
+.create-list{
+    margin-left: 5%;
+    /* display: flex;
+    padding: 0 5% 2% 0; */
+}
+.create-list-modal{
+    display: flex;
+    padding: 0 5% 2% 0;
+}
+.imgtour-create{
+    width: 8rem;
+    height: 5rem;
+    margin: 0 1%;
+}
+
+/* Create2 */
+    .create-main-2{
+        padding: 1% 12.5%;
+        background-color: #eee;
+    }
+
+.create-2{
+    display: flex;
+}
+
+.add-day-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #71d2f0;
+    padding: 0 2%;
+    margin-top: 2%;
+    color: #fff;
+    height: 3rem;
+    width: 800px;
+
+}
+.dragEnd{
+    background-color: royalblue;
+    height: 100px;
+}

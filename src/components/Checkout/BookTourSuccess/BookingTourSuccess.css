@@ -1,0 +1,29 @@
+.ts {
+    text-align: center;
+    padding: 5% 10%;
+    background-color:rgb(227, 227, 227);
+}
+
+.ts-main {
+    background-color: rgb(255, 238, 249);
+    height: 100%;
+    padding: 3% 0;
+}
+.ts-check{
+    width: 80px;
+    margin-bottom: 20px;
+}
+.ts-title {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.ts-tk, .ts-para, .ts-hotline, .ts-back {
+    font-size: 16px;
+    font-weight: 300;
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ts-back{
+    margin-top: 20px;
+}
